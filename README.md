@@ -11,7 +11,7 @@
 ### 3. Adjust hyperparameters
 - According to the type of model.
 ### 4. Implement the model to data
-- Train the model applying data so the accuracy obtained is about 70
+- Train the model applying data so the accuracy obtained is about 0.7
 ### 5. Get probability of default results
 - Look at PI table.
 - This probability is about 0 to 1.
